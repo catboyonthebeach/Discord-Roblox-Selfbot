@@ -1,5 +1,6 @@
 # Requirments
 > Python 3.8+
+
 > Pip (python added to path)
 
 ## Setup
